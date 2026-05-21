@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "通话生成",
+    "slug": "call-log-generator",
+    "version": "1.0.0",
+    "android": {
+      "permissions": [
+        "READ_CALL_LOG",
+        "WRITE_CALL_LOG",
+        "READ_PHONE_STATE",
+        "PROCESS_OUTGOING_CALLS"
+      ],
+      "package": "com.example.callloggenerator"
+    }
+  }
+}
